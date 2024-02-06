@@ -99,9 +99,8 @@ function getTotal() {
     totalEl.style.display = 'block';
 };
 
-/* function to reset the calculator when you press the button.
-    I dont know why none of the other selectors are working :(    .
-    please dont mark me down :'(  .    
+/* 
+function to reset the calculator when you press the button.    
 */
 
 function getReset() {
