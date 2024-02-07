@@ -1,5 +1,4 @@
 ## Ocean Cleanup Project
 
-The goal of this project was to perfectly recreate a website by the ocean Cleanup from a picture without being able to inspect any HTML, CSS or JavaScript code.
-
+Creation of a website that mirrors a preselected design format and template. Website had to match the design aspects in the HTML, CSS and JavaScript exactly
 
